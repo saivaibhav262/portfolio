@@ -280,7 +280,7 @@ img {
 @media screen and (min-width: 1568px) {
   .qualification__sections {
       display: grid;
-      grid-template-columns: .2fr;
+      grid-template-columns: .3fr;
       justify-content: center;
   }
 }
